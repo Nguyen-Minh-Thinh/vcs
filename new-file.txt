@@ -1,1 +1,2 @@
 this is the first line for new-file.txt
+this is the second line
