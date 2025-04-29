@@ -1,4 +1,4 @@
 this is the first line for new-file.txt
 this is the second line
 this is the third line
-this is the fourth line
+this is the fourth line of new-feature4
